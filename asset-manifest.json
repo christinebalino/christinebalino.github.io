@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb9aa74a.css",
+    "main.js": "/static/js/main.ffb76ddf.js",
+    "static/js/787.1fee1fb8.chunk.js": "/static/js/787.1fee1fb8.chunk.js",
+    "static/media/Ccisdays.png": "/static/media/Ccisdays.c0118b24da8881c0fa19.png",
+    "static/media/first.png": "/static/media/first.1b93680af6ea73917f45.png",
+    "static/media/fsecond.png": "/static/media/fsecond.14d63062c50218d75fc3.png",
+    "static/media/food.png": "/static/media/food.2526df71e1bd3f1602da.png",
+    "static/media/officerss.png": "/static/media/officerss.725a5a8b54a8ab4ffead.png",
+    "static/media/Scrunch2.png": "/static/media/Scrunch2.dfa5aff69bec8d577e44.png",
+    "static/media/Scrunch.png": "/static/media/Scrunch.b593ee795ad6c46947d2.png",
+    "static/media/Scrunchie.png": "/static/media/Scrunchie.91c0f904eef2d01446e1.png",
+    "static/media/bg.png": "/static/media/bg.70a8ea319e52e10ea38f.png",
+    "static/media/officer.png": "/static/media/officer.6b199ffdfd01f99aeca4.png",
+    "static/media/profile.png": "/static/media/profile.f383741780c81d956c5b.png",
+    "static/media/pamasko.jpg": "/static/media/pamasko.e996f79835341687840f.jpg",
+    "static/media/Pagkani2.png": "/static/media/Pagkani2.8b598f08c6a7f92d05e9.png",
+    "static/media/bech.png": "/static/media/bech.5a722ac60fe7cf2fa575.png",
+    "static/media/Box.png": "/static/media/Box.e7ca7f8419d53098902d.png",
+    "static/media/tutorial.png": "/static/media/tutorial.a2eecae4b3df12f391a7.png",
+    "static/media/bech1.png": "/static/media/bech1.1de08289ca1fbbddf096.png",
+    "static/media/fadventure.png": "/static/media/fadventure.fc6b7f57fd3dfb95eb43.png",
+    "static/media/Badminton .png": "/static/media/Badminton .681029d542dde00d6206.png",
+    "static/media/bech2.png": "/static/media/bech2.999d9d854382d3e6f49d.png",
+    "static/media/bech3.png": "/static/media/bech3.e137417c2f6c770f9a36.png",
+    "static/media/mapx.jpg": "/static/media/mapx.5a5dbd4db1266199cc0b.jpg",
+    "static/media/Playball-Regular.ttf": "/static/media/Playball-Regular.71988dd7eaaef16a92b6.ttf",
+    "static/media/sc-review3.jpg": "/static/media/sc-review3.5698083c99f75cf0ad3f.jpg",
+    "static/media/Quicksand-VariableFont_wght.ttf": "/static/media/Quicksand-VariableFont_wght.92e1d0f3321b53e20d2b.ttf",
+    "static/media/logo.png": "/static/media/logo.f0053c99e499fd89c3de.png",
+    "static/media/Acme-Regular.ttf": "/static/media/Acme-Regular.f6db4c5c3282b4e95e85.ttf",
+    "index.html": "/index.html",
+    "main.cb9aa74a.css.map": "/static/css/main.cb9aa74a.css.map",
+    "main.ffb76ddf.js.map": "/static/js/main.ffb76ddf.js.map",
+    "787.1fee1fb8.chunk.js.map": "/static/js/787.1fee1fb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9aa74a.css",
+    "static/js/main.ffb76ddf.js"
+  ]
+}
